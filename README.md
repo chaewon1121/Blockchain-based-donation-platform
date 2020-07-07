@@ -38,7 +38,7 @@
 : 학회, 동아리 등 교내 학생 단체에서 직접 기부 받고자 하는 이유 등을 기록하고 크라우드 펀딩의 시스템을 적용하여, 선배들이 돈을 모아 장학금을
 줄 수 있게 하는 기능
 
-<h3> 6. How to developing</h3>
+<h3> 6. How to develop</h3>
 > a. Front-end : Html, CSS, Javacript로 총 9개 페이지 개발 <br>
 -Index page <br>
 -자율장학금 page <br> 
