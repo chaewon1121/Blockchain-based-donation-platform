@@ -1,6 +1,5 @@
 <h1> 블록체인 기반 교내 기부 플랫폼, 기부니가 조아 </h1>
 > 성균관대학교 융합캡스톤 수업 프로젝트로 진행
-<span style="color:red">Red Text</span>
 
 <h3> 1. Member </h3>
 <div id="about_team">
