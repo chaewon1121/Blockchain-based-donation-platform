@@ -38,4 +38,20 @@
 : 학회, 동아리 등 교내 학생 단체에서 직접 기부 받고자 하는 이유 등을 기록하고 크라우드 펀딩의 시스템을 적용하여, 선배들이 돈을 모아 장학금을
 줄 수 있게 하는 기능
 
+<h3> 6. How to developing</h3>
+> a. Front-end : Html, CSS, Javacript로 총 9개 페이지 개발 <br>
+-Index page <br>
+-자율장학금 page <br> 
+-크라우드펀딩(개인) page <br>
+-크라우드펀딩(그룹) page <br>
+-My page <br>
+-신청 및 지원 팝업(4개) page <br>
+> b. Smart-Contract : Ethereum Roptsten Testnet을 활용하여 개발<br>
+-amount / giver / getter /typeinfo 변수 설정 <br>
+> c. 서버 연결 및 라우팅 : Node.js 이용<br>
+> d. Front-end와 Smart-contract 연동 : Web3.js 활용 <br>
+
+<h3> 7. Result </h3>
+Responsive WebApplication http://skkudonation.com/
+
 
