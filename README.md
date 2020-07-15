@@ -30,6 +30,7 @@
 > Value C. Player들간의 교류 증진 제고
  
 <h3> 5. Service Features </h3>
+
 ![ex_screenshot](./readmeimg/sf.png)
 
 > 기능 1 [자율장학금] <br>
