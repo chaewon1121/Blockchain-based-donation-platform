@@ -20,6 +20,10 @@
   
   
 <h3> 3. Background </h3>
+
+![ex_screenshot](./readmeimg/g.png)
+
+
 <div id="about_Background">
 > a. 국내 기부 참여율의 지속적인 하락세 <br>
 > b. "기부포비아" 사회 현상 확산 <br>
