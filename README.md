@@ -37,7 +37,7 @@
  
 <h3> 5. Service Features </h3>
 
-![ex_screenshot](./readmeimg/sf.png)
+![ex_screenshot](./readmeimg/sf2.png)
 
 > 기능 1 [자율장학금] <br>
 : 소액을 기부금으로 생성하여 조건을 만족하는 후배에게 블록체인의 스마트 컨트랙트를 활용하여 자동으로 기부금을 전달하는 기능 <br>
